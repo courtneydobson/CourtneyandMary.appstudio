@@ -1,0 +1,20 @@
+/*when user clicks on the search image, they'll be taken to the search page*/
+btnHome.onclick=function(){
+ChangeForm(homeScreen)
+}
+
+/*when user clicks on the search image, they'll be taken to the search page*/
+btnSearch.onclick=function(){
+ChangeForm(searchPage)
+}
+
+/*when user clicks on the star image, they'll be taken to the saved recipes page*/
+btnSavedRecipes.onclick=function(){
+ChangeForm(savedRecipes)
+}
+
+
+/*when user clicks on the profile image, they'll be taken to the profile page*/
+btnProfile.onclick=function(){
+ChangeForm(profile)
+}

@@ -1,0 +1,119 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "SearchPage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "useDescription.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "btnHomeSearchP.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "btnSearchSearchP.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "btnSavedRecipesSearchP.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "btnProfileSearchP.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "categoryList.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "Submit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "searchPage",
+        "Elements",
+        "ingredientItems.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "false",
+  "height": 460,
+  "id": "searchPage",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
